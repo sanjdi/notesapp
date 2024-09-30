@@ -1,8 +1,5 @@
-# React + Vite
+# Notes App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple [React](https://react.dev/) + [Vite](https://vitejs.dev/) full-stack web application that allows users to create, update, delete notes, and upload an image associated with a note.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Tutorial from [AWS Amplify](https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/?pg=cloudessentials) - a git-based CI/CD workflow for building, deploying, and hosting single-page web applications or static sites with serverless backends.Currently, two official plugins are available:
